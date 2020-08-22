@@ -4,12 +4,13 @@
 
 ## 📝 About
 I am João Felipe, from Curitiba, Brazil. 
+ 
 
-Currently, I am working and improving my skills in front-end web development. 
+I love to work with interfaces. I try hard to pay attention to every detail and give screen responsivity to achieve the best user experience. 
 
-I try hard to pay attention to every detail and give screen responsivity to achieve the best user experience. 
+Click in "Repositories" in the top menu and start seen my projects. 
 
-I hope you enjoy my repositories!
+I hope you enjoy it.
 
 
 ---
