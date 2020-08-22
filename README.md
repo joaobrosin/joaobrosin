@@ -1,17 +1,11 @@
 <h1>Hey there! 👨‍💻</h1>
 
-
-
 ## 📝 About
 I am João Felipe, from Curitiba, Brazil. 
  
-
 I love to work with interfaces. I try hard to pay attention to every detail and give screen responsivity to achieve the best user experience. 
 
-Click in "Repositories" in the top menu and start seen my projects. 
-
-I hope you enjoy it.
-
+I hope you enjoy my repositories.
 
 ---
 
@@ -24,12 +18,12 @@ The technologies I am used to:
 - Node.js
 - Nunjucks
 
-
 ---
 
-## ✉ Contact
-If you have feedback, please feel free to send me an e-mail:
+## 📃 Projects
 
-joao.brosin@gmail.com
+Below you can find my pined projects.
+ 
+Click on one of them or click on "Repositories" in the top menu to see all of my available projects.
 
-Developing with 💙 - ***João Brosin***.
+👇👇👇👇
