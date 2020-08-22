@@ -22,7 +22,7 @@ The technologies I am used to:
 
 ## 📃 Projects
 
-Below you can find my pined projects.
+Below you can find my pinned projects.
  
 Click on one of them or click on "Repositories" in the top menu to see all of my available projects.
 
