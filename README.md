@@ -17,6 +17,7 @@ The technologies I am used to:
 - JavaScript
 - Node.js
 - Nunjucks
+- AMP
 
 ---
 
